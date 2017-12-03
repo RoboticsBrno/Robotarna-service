@@ -25,7 +25,7 @@ Po rozbalení v tomto adresáři je potřeba spustit:
 
 **To je vše :-)**.
 
-Robotárna: po nainstalování nového Arduino IDE je dobré odstranit to staré (verze 1.0.5):   
+**Robotárna**: po nainstalování nového Arduino IDE je dobré odstranit to staré (verze 1.0.5):   
 `sudo apt-get remove arduino`
  
  
