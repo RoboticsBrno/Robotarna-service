@@ -6,8 +6,8 @@ Stáhnout Arduino IDE z [oficálních stránek](https://www.arduino.cc/en/Main/S
  - `\\robotarna\robotika\Arduino_install\` [Windows]
  - `/media/robotika/Arduino_install/` [Linux] 
  
-Windows: stačí jen nainstalovat   
-Linux: je potřeba rozbalit archiv do `/home/robotika/` a spustit instalační skript v rozbaleném adresáři: `install.sh`.
+**Windows**: stačí jen nainstalovat   
+**Linux**: je potřeba rozbalit archiv do `/home/robotika/` a spustit instalační skript v rozbaleném adresáři: `install.sh`.
  
 ## ESP32 pro Arduino IDE
  
