@@ -15,7 +15,7 @@ Stáhnout Arduino IDE z [oficálních stránek](https://www.arduino.cc/en/Main/S
  
 [Návod na instalaci arduino-esp32](https://github.com/espressif/arduino-esp32#installation-instructions)
  
-Na Robotárně stačí nakopírovat a rozbalit archiv `esp32-hardware.7z` z NASu (stejná složka jako instalace Arduino IDE - viz výše) do:
+Na Robotárně stačí nakopírovat a rozbalit archiv [`esp32-hardware.7z`](http://files.robotikabrno.cz/software/arduino-ide_esp32-hardware_2017-12-01.7z) z NASu (stejná složka jako instalace Arduino IDE - viz výše) do:
 - `C:\Users\Robotika\Documents\Arduino` [Windows]
 - `/home/robotika/Arduino` [Linux]
  
