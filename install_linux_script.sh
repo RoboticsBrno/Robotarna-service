@@ -3,3 +3,5 @@ sudo apt-get install arduino atom chromium-browser clang code curl eagle fritzin
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get autoremove
+
+pip install pygame pyserial numpy matplotlib py2exe
